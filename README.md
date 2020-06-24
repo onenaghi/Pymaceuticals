@@ -6,4 +6,4 @@ Pymaceuticals - MapPlotLib HW
 
 *Mice were treated with 9 different drugs
 
-[Bar Graph 1](https://github.com/onenaghi/Pymaceuticals/blob/master/Images/bar_graph1.png)
+[Bar Graph 1](https://github.com/onenaghi/Pymaceuticals/blob/master/Images/bar_graph1.png?raw=true)
